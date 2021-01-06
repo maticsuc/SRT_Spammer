@@ -11,9 +11,9 @@ Python modules and packages you're gonna need:
 
 ### Installing
 
-  `pip install pyautogui
+```pip install pyautogui
 
-  pip install keyboard`
+pip install keyboard```
 
 ## Authors
 
