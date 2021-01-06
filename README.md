@@ -6,14 +6,14 @@ SRT Spammer is a python script that let's you spam your friends with subtitles o
 
 Python modules and packages you're gonna need:
 
-PyAutoGUI
-keyboard
+ - PyAutoGUI
+ - keyboard
 
 ### Installing
 
-pip install pyautogui
+  pip install pyautogui
 
-pip install keyboard
+  pip install keyboard
 
 ## Authors
 
